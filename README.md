@@ -5,7 +5,7 @@ Neurale Netzwerke, insbesondere generative Large Language Models (LLM) bieten ne
 
 Dieses Repository definiert Anforderungen an solche digitalen Produkte, um deren sicheren Einsatz zu gewährleisten.
 
-Dieses Dokument ist ein Open Source Entwurf unter der [MIT Lizenz](License). Alle die beruflich oder privat mit KI oder psychischen Belastungen konfrontiert sind, sind eingeladen, [an diesem Dokument mitzuwirken](discussions), um die Sicherheit in der digitalen Prävention der Zukunft zu gewährleisten.
+Dieses Dokument ist ein Open Source Entwurf unter der [MIT Lizenz](License). Alle die beruflich oder privat mit KI oder psychischen Belastungen konfrontiert sind, sind eingeladen, [an diesem Dokument mitzuwirken](https://github.com/ephoria-health/ai-safety-mental-health/discussions), um die Sicherheit in der digitalen Prävention der Zukunft zu gewährleisten.
 
 # Risiken
 Folgende Risiken wurden generell identifiziert:
