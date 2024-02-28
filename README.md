@@ -42,8 +42,7 @@ Folgende ethische Grundsätze sind einzuhalten:
 
 - Die KI darf keine schädigende Verhaltensweisen bestärken, wie z.B. Tipps geben zum Abnehmen auf ein Untergewicht.
 
-- Die KI darf keine diskriminierenden Aussagen machen.
-
+- Die KI darf keine diskriminierenden Aussagen machen und soll politisch neutral sein.
 
 # Datenschutz
 Der Datenschutz der Nutzer hat oberste Priorität.
@@ -67,4 +66,4 @@ Das Repository stellt Testdaten (fiktive und/oder anonymisierte Aussagen) mit Be
 Anhand der Tests kann ein Safety Benchmark berechnet und die aktueller Implementierung beurteilt werden.
 
 # Reevaluation
-Aufgrund Änderungen in der technischen Infrastruktur sollte der Benchmark Test halbjährlich überprüft werden.
+Nach Änderungen in der technischen Infrastruktur (z.B. Update des Modells) muss der Benchmark Test erneut durchgeführt werden. Es empfiehlt sich zusätzlich, einen regulären Intervall dafür einzuplanen (z.B. alle 6 Monate).
