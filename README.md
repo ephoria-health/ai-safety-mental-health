@@ -1,4 +1,4 @@
-# Sicherheit beim Einsatz neueraler Netzwerke bei psychischen Belastungen
+# Sicherheit beim Einsatz neuraler Netzwerke bei psychischen Belastungen
 
 ## Einführung
 Neurale Netzwerke, insbesondere generative Large Language Models (LLM) bieten neue Möglichkeiten bei der digitalen Intervention und Prävention psychischer Belastungen.
