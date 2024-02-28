@@ -41,6 +41,8 @@ Folgende ethische Grundsätze sind einzuhalten:
 
 - Die KI darf keine schädigende Verhaltensweisen bestärken, wie z.B. Tipps geben zum Abnehmen auf ein Untergewicht.
 
+- Die KI darf keine diskriminierenden Aussagen machen.
+
 
 # Datenschutz
 Der Datenschutz der Nutzer hat oberste Priorität.
