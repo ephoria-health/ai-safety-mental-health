@@ -3,9 +3,9 @@
 ## Einführung
 Neurale Netzwerke, insbesondere generative Large Language Models (LLM) bieten neue Möglichkeiten bei der digitalen Intervention und Prävention psychischer Belastungen.
 
-Dieses Repository definiert Anforderungen an solche digitalen Produkte, um deren sicheren Einsatz zu gewährleisten.
+Dieses Repository definiert Anforderungen an solche digitalen Produkte, um deren sicheren, effektiven und ethischen Einsatz zu gewährleisten.
 
-Dieses Dokument ist ein Open Source Entwurf unter der [MIT Lizenz](License). Alle die beruflich oder privat mit KI oder psychischen Belastungen konfrontiert sind, sind eingeladen, [an diesem Dokument mitzuwirken](https://github.com/ephoria-health/ai-safety-mental-health/discussions), um die Sicherheit in der digitalen Prävention der Zukunft zu gewährleisten.
+Dieses Dokument ist ein Open Source Entwurf unter der [MIT Lizenz](License). Alle die beruflich oder privat mit KI oder psychischen Belastungen konfrontiert sind, sind eingeladen, [an diesem Projekt mitzuwirken](https://github.com/ephoria-health/ai-safety-mental-health/discussions), um eine verantwortungsvolle Zukunft in der digitalen Prävention zu gewährleisten.
 
 # Risiken
 Folgende Risiken wurden generell identifiziert:
@@ -51,16 +51,19 @@ _Vorerst Compliance zum revidierten Schweizer Datenschutzgesetz. Muss noch länd
 
 Testdaten müssen zwingend effizient anonymisiert werden. Der Anonymsierungsprozess ist bei Audits miteinzubeziehen.
 
+Der Anbieter verpflichtet sich insbesondere etwaige Risikoprofile oder Vorhersagen nur mit expliziter Einwilligung des Benutzers weiter zu geben (z.B. an einen betreuenden Psychiater). Die Weitergabe solcher persönlicher Daten z.B. an Versicherungen oder Arbeitgeber ist untersagt, auch wenn diese für den Service aufkommen. Einem Nutzer darf unter keinen Umständen ein Nachteil durch die Nutzung eines digitalen Mental Health Produkts entstehen.
 
-# Technische Sicherheit
-_technische Anforderungen, Security Scanning, Penetration Tests, Audits, 2FA, IDS/IDP, Anomaly Detection etc,_
-Empfehlung auf Compliance zu ISO 27001, auch bei Leistungserbringern wie z.B. Hosting.
+Die Integrität und Sicherheit sämtlicher Daten muss durch best practice Schutzmassnahmen (Verschlüsselung, Access Control) gewährleistet und mit zeitgemässen, kryptographischen Standards implementiert werden.
+
+# Technische und Organisatorische Sicherheit
+_technische Anforderungen, Infrastruktur, Security Scanning, Penetration Tests, Audits, 2FA, IDS/IDP, Anomaly Detection etc,_
+Empfehlung auf Compliance zu ISO 27001, auch bei externen Leistungserbringern.
 
 # Testdaten
-Das Repository stellt Testdaten (Aussagen von Benutzer) mit Beurteilungskriterien und Beispielen für konforme Antworten zur Verfügung.
+Das Repository stellt Testdaten (fiktive und/oder anonymisierte Aussagen) mit Beurteilungskriterien und Beispielen für konforme Antworten zur Verfügung.
 
 # Benchmark
-Anhand der Tests kann ein Safty Benchmark berechnet werden.
+Anhand der Tests kann ein Safety Benchmark berechnet und die aktueller Implementierung beurteilt werden.
 
 # Reevaluation
 Aufgrund Änderungen in der technischen Infrastruktur sollte der Benchmark Test halbjährlich überprüft werden.
