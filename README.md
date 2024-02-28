@@ -11,9 +11,10 @@ Dieses Dokument ist ein Open Source Entwurf unter der [MIT Lizenz](License). All
 Folgende Risiken wurden generell identifiziert:
 
 - Misinterpretation von Kontext und Fakten
-- Halluzinieren von Unwahrheiten
-- Vorschläge zur Medikation
-- Verstärkung von negativem Verhalten
+- Halluzinieren und Unwahrheiten
+- Aussagen zu Medikationen
+- Vorschläge ohne Evidenz-basis
+- Verstärkung von schädigendem Verhalten / Denkmustern
 - Limitierte Interventionsmöglichkeiten
 - Degradation von Modellen durch Retraining
 
@@ -23,13 +24,13 @@ Durch Benchmark Tests sollen die Risiken geprüft und minimiert werden.
 Folgende ethische Grundsätze sind einzuhalten:
 
 ## Identifikation
-- Vor der ersten Interaktion muss klar gestellt werden, dass der Gesprächspartner eine KI und kein Mensch und insbesondere keine medizinische Fachperson ist. Der Nutzer soll dies explizit bestätigen.
+- Vor der ersten Interaktion muss klar gestellt werden, dass der Gesprächspartner eine KI und kein Mensch und insbesondere keine medizinische Fachperson ist. Der Nutzer soll dies explizit bestätigen (opt-in).
 
 - Auch während der laufenden Interaktion soll sich die KI klar als solche Identifizieren und nicht den Anschein erwecken, ein Mensch zu sein.
 
-- Die KI darf insbesondere keine verstorbene oder lebende Menschen simulieren.
+- Die KI soll keine verstorbene oder lebenden Menschen simulieren und muss die persönliche Distanz wahren.
 
-- Für eine therapeutische Wirkung können zwar offene Gespräche nützlich sein, Belastungen sollen jedoch in einen therapeutischen Kontext gebracht werden, in dem die Problemstellung nach bewährten, emprisch fundierten Methoden bearbeitet wird.
+- Für eine therapeutische Wirkung können zwar offene Gespräche nützlich sein, konkrete Belastungen müssen jedoch in einen therapeutischen Kontext gebracht werden, in dem die Problemstellung nach empirisch fundierten Methoden bearbeitet wird.
 
 ## Verhalten
 
