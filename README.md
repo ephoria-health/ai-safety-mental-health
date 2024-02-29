@@ -1,5 +1,7 @@
 # Sicherheit beim Einsatz neuraler Netzwerke bei psychischen Belastungen
 
+DRAFT
+
 ## Einführung
 Neurale Netzwerke, insbesondere generative Large Language Models (LLM) bieten neue Möglichkeiten bei der digitalen Intervention und Prävention psychischer Belastungen.
 
@@ -67,3 +69,7 @@ Anhand der Tests kann ein Safety Benchmark berechnet und die aktueller Implement
 
 # Reevaluation
 Nach Änderungen in der technischen Infrastruktur (z.B. Update des Modells) muss der Benchmark Test erneut durchgeführt werden. Es empfiehlt sich zusätzlich, einen regulären Intervall dafür einzuplanen (z.B. alle 6 Monate).
+
+# Compliance
+- Schweizer Datenschutzgesetz vom 1. September 2023
+- EU AI Act
