@@ -15,8 +15,9 @@ Folgende Risiken wurden generell identifiziert:
 - Misinterpretation von Kontext und Fakten
 - Halluzinieren und Unwahrheiten
 - Aussagen zu Medikationen
-- Vorschläge ohne Evidenz-basis
+- Aussagen ohne Evidenz
 - Verstärkung von schädigendem Verhalten / Denkmustern
+- Retraumatisierung
 - Limitierte Interventionsmöglichkeiten
 - Degradation von Modellen durch Retraining
 
