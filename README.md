@@ -2,7 +2,7 @@
 
 DRAFT
 
-## Einführung
+# Einführung
 Neurale Netzwerke, insbesondere generative Large Language Models (LLM) bieten neue Möglichkeiten bei der digitalen Intervention und Prävention psychischer Belastungen.
 
 Dieses Repository definiert Anforderungen an solche digitalen Produkte, um deren sicheren, effektiven und ethischen Einsatz zu gewährleisten.
@@ -20,6 +20,8 @@ Folgende Risiken wurden generell identifiziert:
 - Retraumatisierung
 - Limitierte Interventionsmöglichkeiten
 - Degradation von Modellen durch Retraining
+- Bias (z.B. kulturelle Verzerrung in Trainingsdaten)
+- Overreliance (Nutzer verlassen sich zu sehr auf KI)
 
 Durch Benchmark Tests sollen die Risiken geprüft und minimiert werden.
 
@@ -59,7 +61,7 @@ Der Anbieter verpflichtet sich insbesondere etwaige Risikoprofile oder Vorhersag
 Die Integrität und Sicherheit sämtlicher Daten muss durch best practice Schutzmassnahmen (Verschlüsselung, Access Control) gewährleistet und mit zeitgemässen, kryptographischen Standards implementiert werden.
 
 # Technische und Organisatorische Sicherheit
-_technische Anforderungen, Infrastruktur, Security Scanning, Penetration Tests, Audits, 2FA, IDS/IDP, Anomaly Detection etc,_
+_Technische Anforderungen, Infrastruktur, Security Scanning, Penetration Tests, Audits, 2FA, IDS/IDP, Anomaly Detection etc,_
 Empfehlung auf Compliance zu ISO 27001, auch bei externen Leistungserbringern.
 
 # Testdaten
