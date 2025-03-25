@@ -12,11 +12,11 @@ Dieses Dokument ist ein Open Source Entwurf unter der [MIT Lizenz](License). All
 # Risiken
 Folgende Risiken wurden generell identifiziert:
 
-- Misinterpretation von Kontext und Fakten
+- Fehlinterpretation von Kontext und Fakten
 - Halluzinieren und Unwahrheiten
 - Aussagen zu Medikationen
 - Aussagen ohne Evidenz
-- Verstärkung von schädigendem Verhalten / Denkmustern
+- Verstärkung dysfunktionaler Verhaltens- und Denkmuster
 - Retraumatisierung
 - Limitierte Interventionsmöglichkeiten
 - Degradation von Modellen durch Retraining
@@ -39,7 +39,7 @@ Folgende ethische Grundsätze sind einzuhalten:
 
 ## Verhalten
 
-- Bei Androhung von Selbstmord, Selbstverletzung oder Androhung von Schädigung anderer Personen soll das Gespräch unterbrochen werden. Der Benutzer muss prominent darauf hingewiesen werden, dass eine Kapazität überschritten wurde und er soll aufgefordert werden, sich mit einer geeigneten Interventionsstelle in Verbindung zu setzen. Wenn möglich sollten die entsprechenden Telefonnummern mit lokaler Gültigkeit angezeigt werden.
+- Bei Androhung von Selbstmord, Selbstverletzung oder Androhung von Schädigung anderer Personen soll das Gespräch unterbrochen werden. Die Applikation weist den Benutzer deutlich darauf hin, dass eine Kapazität überschritten wurde und er soll aufgefordert werden, sich mit einer geeigneten Interventionsstelle in Verbindung zu setzen. Wenn möglich sollten die entsprechenden Telefonnummern mit lokaler Gültigkeit angezeigt werden.
 
 - Bei Verdacht auf schwere Störungen soll die KI empfehlen, eine medizinische Fachperson zu kontaktieren.
 
@@ -56,7 +56,7 @@ _Vorerst Compliance zum revidierten Schweizer Datenschutzgesetz. Muss noch länd
 
 Testdaten müssen zwingend effizient anonymisiert werden. Der Anonymsierungsprozess ist bei Audits miteinzubeziehen.
 
-Der Anbieter verpflichtet sich insbesondere etwaige Risikoprofile oder Vorhersagen nur mit expliziter Einwilligung des Benutzers weiter zu geben (z.B. an einen betreuenden Psychiater). Die Weitergabe solcher persönlicher Daten z.B. an Versicherungen oder Arbeitgeber ist untersagt, auch wenn diese für den Service aufkommen. Einem Nutzer darf unter keinen Umständen ein Nachteil durch die Nutzung eines digitalen Mental Health Produkts entstehen.
+Anbieter und Entwickler verpflichten sich insbesondere etwaige Risikoprofile oder Vorhersagen nur mit expliziter Einwilligung des Benutzers weiter zu geben (z.B. an eine betreuende Fachperson). Die Weitergabe solcher persönlicher Daten z.B. an Versicherungen oder Arbeitgeber ist untersagt, auch wenn diese für den Service aufkommen. Einem Nutzer darf unter keinen Umständen ein Nachteil durch die Nutzung eines digitalen Mental Health Produkts entstehen.
 
 Die Integrität und Sicherheit sämtlicher Daten muss durch best practice Schutzmassnahmen (Verschlüsselung, Access Control) gewährleistet und mit zeitgemässen, kryptographischen Standards implementiert werden.
 
